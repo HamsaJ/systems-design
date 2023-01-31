@@ -1,6 +1,6 @@
 ---
 description: >-
-  synchronous and synchronous communication are two fundamental approaches to
+  Asynchronous and synchronous communication are two fundamental approaches to
   data transfer and processing in systems design. These two methods have
   distinct characteristics that affect the performance,
 ---
